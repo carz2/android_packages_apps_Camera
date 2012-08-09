@@ -54,6 +54,9 @@ public class CameraSettings {
     public static final String KEY_CAMERA_FIRST_USE_HINT_SHOWN = "pref_camera_first_use_hint_shown_key";
     public static final String KEY_VIDEO_FIRST_USE_HINT_SHOWN = "pref_video_first_use_hint_shown_key";
 
+    public static final String KEY_FOCUS_TIME = "pref_camera_focus_key";
+
+
     public static final String EXPOSURE_DEFAULT_VALUE = "0";
 
     public static final int CURRENT_VERSION = 5;
